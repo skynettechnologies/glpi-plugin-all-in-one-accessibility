@@ -15,7 +15,7 @@
     <homepage>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility</homepage>
     <download>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/releases</download>
     <issues>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/issues</issues>
-    <readme>https://raw.githubusercontent.com/pluginsGLPI/room/master/README.md</readme>
+    <readme>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/blob/main/README.md</readme>
     <authors>
         <author>Skynet Technologies USA LLC</author>
     </authors>
@@ -23,7 +23,7 @@
         <version>
             <num>1.0</num>
             <compatibility>~9.4.0</compatibility>
-            <download_url>http://link/to/your/file</download_url>
+            <download_url>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility</download_url>
         </version>
     </versions>
     <langs>
