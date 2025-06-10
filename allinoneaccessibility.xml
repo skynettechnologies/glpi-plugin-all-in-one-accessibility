@@ -3,7 +3,7 @@
     <name>All in One Accessibility</name>
     <key>allinoneaccessibility</key>
     <state>stable</state>
-    <logo>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/allinoneaccessibility.png</logo>
+    <logo>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/allinoneaccessibility.png</logo>
     <description>
         <short>
             <en>Website accessibility widget for improving WCAG 2.0, 2.1, 2.2 and ADA compliance!</en>
@@ -38,9 +38,9 @@
         </en>
     </tags>
     <screenshots>
-        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/screenshot-01.png</screenshot>
-        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/screenshot-02.png</screenshot>
-        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/screenshot-03.png</screenshot>
-        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/screenshot-04.png</screenshot>
+        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/screenshot-01.jpg</screenshot>
+        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/screenshot-01.jpg</screenshot>
+        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/screenshot-01.jpg/screenshot>
+        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/screenshot-01.jpg</screenshot>
     </screenshots>
 </root>
