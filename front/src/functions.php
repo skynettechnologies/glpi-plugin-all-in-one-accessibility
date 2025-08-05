@@ -12,12 +12,6 @@ class SkynetWidget
     {
         global $CFG_GLPI;
 
-        $username = '';
-
-        if (\Session::getLoginUserID()) {
-            $username = $_SESSION['glpiactiveprofile']['name'];
-        }
-
         $full_url = $CFG_GLPI['url_base'];
         $domain = parse_url($full_url, PHP_URL_HOST);
 
@@ -36,15 +30,15 @@ class SkynetWidget
             CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
             CURLOPT_CUSTOMREQUEST => 'POST',
             CURLOPT_POSTFIELDS => array(
-                'name'              => $username,
-                'company_name'      => '',
+                'name'              => $domain,
+                'company_name'      => 'no-reply@' . base64_encode($domain) . '.com',
                 'website'           => base64_encode($domain),
                 'package_type'      => 'free-widget',
                 'start_date'        => $dateTime,
                 'end_date'          => '',
                 'price'             => '',
                 'discount_price'    => '0',
-                'platform'          => 'Craft',
+                'platform'          => 'GLPi',
                 'api_key'           => '',
                 'is_trial_period'   => '',
                 'is_free_widget'    => '1',

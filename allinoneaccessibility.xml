@@ -3,7 +3,7 @@
     <name>All in One Accessibility</name>
     <key>allinoneaccessibility</key>
     <state>stable</state>
-    <logo>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/allinoneaccessibility.png</logo>
+    <logo>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/allinoneaccessibility.png</logo>
     <description>
         <short>
             <en>Website accessibility widget for improving WCAG 2.0, 2.1, 2.2 and ADA compliance!</en>
@@ -15,15 +15,15 @@
     <homepage>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility</homepage>
     <download>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/releases</download>
     <issues>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/issues</issues>
-    <readme>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/blob/main/README.md</readme>
+    <readme>https://raw.githubusercontent.com/pluginsGLPI/room/master/README.md</readme>
     <authors>
         <author>Skynet Technologies USA LLC</author>
     </authors>
     <versions>
         <version>
-            <num>1.0</num>
+            <num>1.1</num>
             <compatibility>~9.4.0</compatibility>
-            <download_url>https://github.com/skynettechnologies/glpi-plugin-all-in-one-accessibility</download_url>
+            <download_url>http://link/to/your/file</download_url>
         </version>
     </versions>
     <langs>
@@ -38,9 +38,9 @@
         </en>
     </tags>
     <screenshots>
-        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/screenshot-01.jpg</screenshot>
-        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/screenshot-02.jpg</screenshot>
-        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/screenshot-03.jpg</screenshot>
-        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/refs/heads/main/images/screenshot-04.jpg</screenshot>
+        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/screenshot-01.png</screenshot>
+        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/screenshot-02.png</screenshot>
+        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/screenshot-03.png</screenshot>
+        <screenshot>https://raw.githubusercontent.com/skynettechnologies/glpi-plugin-all-in-one-accessibility/main/images/screenshot-04.png</screenshot>
     </screenshots>
 </root>

@@ -1,6 +1,6 @@
 <?php
 
-define('PLUGIN_AIOA_VERSION', '1.0.0');
+define('PLUGIN_AIOA_VERSION', '1.1');
 
 function plugin_init_allinoneaccessibility()
 {
@@ -26,6 +26,6 @@ function plugin_version_allinoneaccessibility()
       'name'         => __('All in One Accessibility', 'allinoneaccessibility'),
       'version'      => PLUGIN_AIOA_VERSION,
       'author'       => 'SKYNET TECHNOLOGIES USA LLC.',
-      'license'      => ''
+      'license'      => 'MIT'
    ];
 }
